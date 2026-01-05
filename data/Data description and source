@@ -1,1 +1,31 @@
+# Data Description
+
+## Dataset Overview
+This project uses a health-related survival dataset to study time-to-event outcomes.
+The dataset includes demographic, clinical, and lifestyle-related variables.
+
+## Key Variables
+- Time: Follow-up duration (in months)
+- Event: Survival status (0 = censored, 1 = event)
+- Covariates:
+  - Age
+  - Gender
+  - Clinical risk factors
+  - Lifestyle indicators
+
+## Data Source
+The dataset is either:
+- Publicly available 
+- Derived from secondary analysis for academic demonstration purposes.
+
+⚠️ Due to privacy and ethical considerations, raw patient-level data is **not uploaded** to this repository.
+
+## How to Obtain the Data
+- If public: Provide official source link
+- If simulated: Scripts are provided to generate synthetic data
+- If restricted: Contact the author for access details
+
+## Ethical Considerations
+All analyses follow ethical research standards.
+No personally identifiable information is included in this repository.
 
